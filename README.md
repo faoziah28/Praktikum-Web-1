@@ -19,6 +19,10 @@ Elemen <p>mendefinisikan paragraf
   
 
 <img width="711" alt="home koding" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/09f50edd-457b-4428-b586-7f77aab4cf64">
+Elemen Heading (Judul): Digunakan untuk menandai judul atau bagian-bagian penting dari sebuah halaman menggunakan tag <h1> sampai <h6>.
+Elemen Paragraph (Paragraf): Digunakan untuk menandai paragraf teks menggunakan tag <p>.
+Elemen Link (Tautan): Digunakan untuk membuat tautan ke halaman lain atau ke bagian lain dari halaman yang sama menggunakan tag <a>.
+<img width="374" alt="home1" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/f4ab34a8-231c-41d2-9020-4090d7985b7f">
 
 
 
