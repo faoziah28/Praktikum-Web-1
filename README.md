@@ -22,6 +22,9 @@ Elemen p mendefinisikan paragraf
 <img width="711" alt="home koding" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/09f50edd-457b-4428-b586-7f77aab4cf64">
 
 
+
+Outputnya:
+
 <img width="374" alt="home1" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/f4ab34a8-231c-41d2-9020-4090d7985b7f">
 
 
@@ -81,6 +84,8 @@ script List
 
 <img width="423" alt="koding list" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/55cb636f-fad5-44a3-a301-ca9e4f931ee5">
 
+Elemen List (Daftar): Digunakan untuk membuat daftar dengan menggunakan tag ul untuk daftar tak terurut (unordered list) dan ol untuk daftar terurut (ordered list).
+
 
 
 Output List html
@@ -89,5 +94,4 @@ Output List html
 <img width="341" alt="output list html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/a845c4c6-6b1a-4e0f-bfac-145732ec910b">
 
 
-Elemen List (Daftar): Digunakan untuk membuat daftar dengan menggunakan tag ul untuk daftar tak terurut (unordered list) dan ol untuk daftar terurut (ordered list).
 
