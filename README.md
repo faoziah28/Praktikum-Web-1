@@ -18,6 +18,7 @@ Elemen <p>mendefinisikan paragraf
 1. Home
   
 
+<img width="711" alt="home koding" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/09f50edd-457b-4428-b586-7f77aab4cf64">
 
 
 
