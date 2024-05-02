@@ -1,5 +1,30 @@
 # Praktikum-Web-1
                       HTML
+Sejarah singkat bahasa pemrograman HTML
+HTML diciptakan oleh Sir Tim Berners-lee pada akhir tahun 1991 namun tidak dirilis secara resmi. Sir Tim Berners-lee merilis HTML versi pertama pada tahun 1993 dengan tujuan untuk berbagi informasi yang dapat dibaca dan diakses melalui web browser.
+Hingga saat ini versi HTML sudah mencapai versi 5 yang dirilis pada tahun 2012, Versi HTML 5 ini merupakan terusan dari perpanjangan versi HTML 4.01 yang sebelumnya digunakan oleh kebanyakan orang.
+
+Kelebihan dan Kekurangan bahasa pemrograman HTML
+Berikut merupakan kelebihan dan kekurangan dari Bahasa pemograman HTML :
+
+Kelebihan Bahasa Pemograman HTML
+1. Memiliki banyak sumber dan komunitas yang sangat besar.
+2. Bersifat Open Source sehingga gratis untuk digunakan
+3. Memiliki Bahasa Markup yang konsisten dan rapi
+4. Mudah diintegrasikan dengan Bahasa backend seperti PHP , Node.js dan javascript
+5. Bisa dijalankan oleh semua Browser.
+6. Dapat dipelajari dengan mudah oleh web developer pemula.
+
+Kekurangan Bahasa Pemograman HTML
+1. Bahasa pemograman HTML hanya dapat diimplementasikan untuk halaman web static . jika ingin menambah fitur dinamis, pengguna dapat menggunakan bahasa pemograman back-end seperti javascript atau Bahasa pemograman back-end lainnya.
+2. Terdapat fitur baru yang tidak dapat dijalankan dengan cepat oleh web browser.
+3. Bahasa pemograman HTML tidak mendukung logic sehingga semua halaman website harus dibuat secara terpisah.
+
+Cara kerja bahasa pemrograman HTML
+Pertama-tama kamu harus membuat dokumen HTML pada aplikasi editor HTML seperti Visual Studio, Sublime Text dan lain-lainnya , lalu menyimannya dengan format html atau htm. File HTML dibuat bisa lebih dari satu tergantung kebutuhan file yang akan diperlukan. File-file yang telah dibuat ini berisi Halaman Utama , kontak , isi Website dan lain-lain.
+File HTML dapat dibuka oleh web browser seperti Google Chrome , Mozilla Firefox, Internet Explore dan masih banyak lagi. Kemudian, agar dapat diakses oleh banyak orang kamu harus menyewa layanan Hosting website dan mengupload file HTML pada halaman hosting yang dapat kamu akses pada cpanel.
+File HTML yang sudah terupload, maka browser akan merender file HTML menjadi halaman website sehingga kamu dan pengunjung web lain dapat mengaksesnya melalui internet.
+                      
 HTML adalah singkatan dari Hyper Text Markup Language
 HTML adalah bahasa markup standar untuk membuat halaman Web
 HTML menjelaskan struktur halaman Web
@@ -95,3 +120,22 @@ Output List html
 
 
 
+
+contoh nested list
+
+
+<img width="451" alt="koding list bersarang" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/cc5bfa74-ba1a-404e-9fee-ffd8ce255ed8">
+
+
+<img width="383" alt="list bersarang 2" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/75364608-0de3-4147-811b-d87a00a3eb42">
+
+Nested list (daftar bersarang) adalah struktur data di mana sebuah list disimpan di dalam elemen dari list lainnya. Ini menciptakan hierarki atau struktur bertingkat dalam list. Dalam konteks pemrograman, konsep nested list dapat ditemui dalam berbagai bahasa pemrograman seperti Python, Java, C++, dan lainnya.
+
+Keuntungan dari nested list adalah fleksibilitas dalam merepresentasikan struktur data yang kompleks serta kemampuan untuk mengakses dan memanipulasi elemen-elemennya menggunakan perulangan dan indeks. Namun, perlu diingat bahwa penggunaan nested list dapat meningkatkan kompleksitas kode dan mengakibatkan kesulitan dalam pemeliharaan jika tidak dikelola dengan baik.
+
+
+
+
+output nested list yaitu:
+
+<img width="362" alt="output list bersarang" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/4b27ee6b-0e95-4aef-879c-428e475b0bb5">
