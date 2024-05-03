@@ -139,3 +139,100 @@ Keuntungan dari nested list adalah fleksibilitas dalam merepresentasikan struktu
 output nested list yaitu:
 
 <img width="362" alt="output list bersarang" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/4b27ee6b-0e95-4aef-879c-428e475b0bb5">
+
+
+
+Dalam html terdapat Layout yang berfungsi untuk melakukan seluruh tata letak web menggunakan floatproperti CSS.
+
+
+<img width="915" alt="lay out html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/824c0a8a-962f-416e-9ab2-64405151e815">
+
+
+
+HTML juga memiliki style yang style digunakan untuk menambahkan gaya ke suatu elemen, seperti warna, font, ukuran, dan lainnya.
+berikut contoh output style.html
+
+<img width="905" alt="style html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/5f72f12e-27db-48c7-a0b9-9980ef93ba76">
+
+
+
+HTML juga menggunakan warna agar halaman web yang dibuat menjadi lebih menarik
+
+<img width="514" alt="warna html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/e25d05b8-68fb-4c03-beb5-10660a9df8b2">
+
+
+Desain Web Responsif adalah tentang penggunaan HTML dan CSS untuk secara otomatis mengubah ukuran, menyembunyikan, mengecilkan, atau memperbesar situs web, agar terlihat bagus di semua perangkat (desktop, tablet, dan ponsel):
+
+
+
+<img width="959" alt="responsif html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/9bca068d-5b89-4a14-a03c-2a7fc9ead4b1">
+
+
+Atribut HTML classdigunakan untuk menentukan kelas elemen HTML.
+Atribut ini classsering digunakan untuk menunjuk ke nama kelas dalam style sheet. Itu juga dapat digunakan oleh JavaScript untuk mengakses dan memanipulasi elemen dengan nama kelas tertentu.
+Pada contoh berikut kita memiliki tiga <div>elemen dengan classatribut bernilai "kota". Ketiga <div> elemen tersebut akan diberi gaya yang sama sesuai dengan .city definisi gaya di bagian kepala:
+
+
+<img width="396" alt="kelas 1 html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/20bcce17-e68c-42bd-be8d-0102af44a2bf">
+
+
+<img width="515" alt="kelas 2 html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/6896aa23-0313-47a3-9446-1d058f396801">
+
+
+
+
+Atribut id digunakan untuk menunjuk ke deklarasi gaya tertentu dalam style sheet. Itu juga digunakan oleh JavaScript untuk mengakses dan memanipulasi elemen dengan id tertentu.
+Sintaks untuk id adalah: tulis karakter hash (#), diikuti dengan nama id. Lalu, definisikan properti CSS di dalam kurung kurawal {}.
+Dalam contoh berikut kita memiliki <h1>elemen yang menunjuk ke nama id "myHeader". Elemen ini <h1> akan ditata sesuai dengan #myHeader definisi gaya di bagian kepala:
+
+
+
+<img width="368" alt="id html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/4bbcaad5-ae60-43f7-999c-5cdf27f7a60a">
+
+
+
+
+
+Iframe HTML digunakan untuk menampilkan halaman web di dalam halaman web.
+
+
+<img width="515" alt="iframe" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/d4db74eb-7a67-4790-b0f6-520776815293">
+
+
+Elemen HTML blockquote mendefinisikan bagian yang dikutip dari sumber lain.
+Browser biasanya membuat indentasi  tag blockquoteelemen.
+
+<img width="603" alt="kutipan" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/39672942-a637-4da4-8eb9-42932b7717aa">
+
+
+ag HTML <script>digunakan untuk mendefinisikan skrip sisi klien (JavaScript).
+
+
+
+Elemen tersebut <script>berisi pernyataan skrip, atau menunjuk ke file skrip eksternal melalui srcatribut.
+Kegunaan umum JavaScript anta lain manipulasi gambar, validasi formulir, dan perubahan konten dinamis.
+
+
+<img width="385" alt="js html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/540c34ef-efe8-4247-b9a3-3f4c108afed9">
+
+
+
+Elemen semantik HTML dengan jelas menggambarkan maknanya bagi browser dan pengembang.
+
+<img width="926" alt="semantik o" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/f00b020a-88f6-4712-96f4-4a8a11f98a57">
+
+
+
+didalam html terdapat emoji Emoji adalah karakter dari rangkaian karakter UTF-8: 😄 😍 💗 
+berikut outputnya
+
+
+
+<img width="359" alt="emoji" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/162e0739-1db7-4c56-aefe-691e6c9bcbe5">
+
+
+
+
+Didalam teks HTML Kita bisa menambahkan kommentar dengan cara  menuliskan  simbol seperti ini
+
+<img width="232" alt="komen" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/5c155e30-c4a7-4c72-b970-973ea1f4abf9">
