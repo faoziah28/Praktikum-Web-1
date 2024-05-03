@@ -236,3 +236,46 @@ berikut outputnya
 Didalam teks HTML Kita bisa menambahkan kommentar dengan cara  menuliskan  simbol seperti ini
 
 <img width="232" alt="komen" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/5c155e30-c4a7-4c72-b970-973ea1f4abf9">
+
+
+
+
+
+                                    CSS
+CSS merupakan singkatan dari Cascading Style Sheets, CSS digunakan untuk menentukan gaya dari tampilan website yang akan kamu buat seperti tata letak halaman, warna , dan font. Semuanya dapat ditentukan oleh CSS, CSS bertujuan agar website terlihat lebih menarik.
+Pada dasarnya tanpa menggunakan CSS, tampilan website dapat terlihat menarik hanya dengan bahasa HTML namun penggunaan HTML terbukti tidak efektif jika digunakan untuk design tampilan oleh karena itu CSS dan HTML tidak dapat dipisahkan satu sama lain.
+CSS pertama kali diusulkan oleh Håkon Wium Lie pada 10 Oktober 1994, pada saat itu, Lie sedang bekerja dengan Tim Berners-Lee di CERN. beberapa bahasa style sheet lain untuk web diusulkan pada waktu yang hampir bersamaan, dan pada World Wide Web Consortium menghasilkan Rekomendasi W3C CSS (CSS1) pertama yang dirilis pada tahun 1996.
+    Kelebihan bahasa CSS yaitu:
+-Bahasa CSS sangat fleksibel digunakan dan nyaman dipandang
+-Ukuran File CSS cenderung kecil sehingga bandwidth yang dibutuhkan juga kecil
+-Dokumen CSS dapat dipisah dengan Dokumen HTML sehingga memudahkan pembuat website dalam mengubah atau mengedit file CSS
+-Satu file CSS dapat digunakan oleh banyak halaman.
+-Menghadirkan sesuatu yang tidak dapat dilakukan Oleh HTML
+
+  Kekurangan Dari CSS Yaitu :
+-Tampilan Pada browser bisa berbeda beda
+-Kadang ada beberapa browser lawas yang tidak support CSS
+-Dibutuhkan waktu yang cenderung lama untuk mendesain dan membuat CSS.
+
+ CSS memiliki beberapa langkah cara kerja sebagai berikut:
+
+-Load HTML, dalam tahap ini browser memuat HTML
+-Parse HTML, Pada tahap ini terjadi penguraian HTML menjadi Document Object Model (DOM) dan memuat CSS.
+-Load CSS, pada tahap ini browser memuat tautan seperti gambar atau video lalu CSS dimuatkan dan ditautkan.
+- Parse CSS, pada tahap ini terjadi penguraian CSS.
+-Render Tree, Penyeleksian tiap CSS yang akan digunakan ke Document Object Model (DOM)
+  Display, Setelah semua proses diatas berjalan , proses terakhir ialah CSS dan DOM akan membentuk tampilan visual sebuah halaman situs yang tertampil di layar monitor.
+
+
+  Dalam CSS, warna juga dapat ditentukan menggunakan nilai RGB, nilai HEX, nilai HSL, nilai RGBA, dan nilai HSLA:
+  
+
+
+<img width="487" alt="color" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/907a6243-88e9-462d-97bc-e4d9960fcfec">
+
+
+
+Properti latar belakang CSS digunakan untuk menambahkan efek latar belakang pada elemen.
+
+
+
