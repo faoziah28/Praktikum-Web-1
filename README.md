@@ -57,6 +57,8 @@ Outputnya:
 <img width="497" alt="lanjutan home" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/9dc31a9b-2c3e-4623-8e8c-47507aec1ad6">
 
 
+
+
 Elemen Heading (Judul): Digunakan untuk menandai judul atau bagian-bagian penting dari sebuah halaman menggunakan tag <h1> sampai <h6>.
 Elemen Paragraph (Paragraf): Digunakan untuk menandai paragraf teks menggunakan tag <p>.
 Elemen Link (Tautan): Digunakan untuk membuat tautan ke halaman lain atau ke bagian lain dari halaman yang sama menggunakan tag <a>.
@@ -104,8 +106,7 @@ Pembuatan Laporan dan Grafik: Tabel dapat digunakan sebagai dasar untuk pembuata
 
 
 
-
-script List
+Input List
 
 <img width="423" alt="koding list" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/55cb636f-fad5-44a3-a301-ca9e4f931ee5">
 
@@ -142,10 +143,15 @@ output nested list yaitu:
 
 
 
+
+
 Dalam html terdapat Layout yang berfungsi untuk melakukan seluruh tata letak web menggunakan floatproperti CSS.
 
 
 <img width="915" alt="lay out html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/824c0a8a-962f-416e-9ab2-64405151e815">
+
+
+
 
 
 
@@ -156,9 +162,14 @@ berikut contoh output style.html
 
 
 
+
+
 HTML juga menggunakan warna agar halaman web yang dibuat menjadi lebih menarik
 
 <img width="514" alt="warna html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/e25d05b8-68fb-4c03-beb5-10660a9df8b2">
+
+
+
 
 
 Desain Web Responsif adalah tentang penggunaan HTML dan CSS untuk secara otomatis mengubah ukuran, menyembunyikan, mengecilkan, atau memperbesar situs web, agar terlihat bagus di semua perangkat (desktop, tablet, dan ponsel):
@@ -168,15 +179,22 @@ Desain Web Responsif adalah tentang penggunaan HTML dan CSS untuk secara otomati
 <img width="959" alt="responsif html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/9bca068d-5b89-4a14-a03c-2a7fc9ead4b1">
 
 
+
+
+
 Atribut HTML classdigunakan untuk menentukan kelas elemen HTML.
 Atribut ini classsering digunakan untuk menunjuk ke nama kelas dalam style sheet. Itu juga dapat digunakan oleh JavaScript untuk mengakses dan memanipulasi elemen dengan nama kelas tertentu.
 Pada contoh berikut kita memiliki tiga <div>elemen dengan classatribut bernilai "kota". Ketiga <div> elemen tersebut akan diberi gaya yang sama sesuai dengan .city definisi gaya di bagian kepala:
+
 
 
 <img width="396" alt="kelas 1 html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/20bcce17-e68c-42bd-be8d-0102af44a2bf">
 
 
 <img width="515" alt="kelas 2 html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/6896aa23-0313-47a3-9446-1d058f396801">
+
+
+
 
 
 
@@ -188,6 +206,9 @@ Dalam contoh berikut kita memiliki <h1>elemen yang menunjuk ke nama id "myHeader
 
 
 <img width="368" alt="id html" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/4bbcaad5-ae60-43f7-999c-5cdf27f7a60a">
+
+
+
 
 
 
@@ -205,9 +226,7 @@ Browser biasanya membuat indentasi  tag blockquoteelemen.
 <img width="603" alt="kutipan" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/39672942-a637-4da4-8eb9-42932b7717aa">
 
 
-ag HTML <script>digunakan untuk mendefinisikan skrip sisi klien (JavaScript).
-
-
+agar HTML <script>digunakan untuk mendefinisikan skrip sisi klien (JavaScript)
 
 Elemen tersebut <script>berisi pernyataan skrip, atau menunjuk ke file skrip eksternal melalui srcatribut.
 Kegunaan umum JavaScript anta lain manipulasi gambar, validasi formulir, dan perubahan konten dinamis.
@@ -217,9 +236,14 @@ Kegunaan umum JavaScript anta lain manipulasi gambar, validasi formulir, dan per
 
 
 
+
+
 Elemen semantik HTML dengan jelas menggambarkan maknanya bagi browser dan pengembang.
 
 <img width="926" alt="semantik o" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/f00b020a-88f6-4712-96f4-4a8a11f98a57">
+
+
+
 
 
 
@@ -233,9 +257,14 @@ berikut outputnya
 
 
 
+
+
+
 Didalam teks HTML Kita bisa menambahkan kommentar dengan cara  menuliskan  simbol seperti ini
 
 <img width="232" alt="komen" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/5c155e30-c4a7-4c72-b970-973ea1f4abf9">
+
+
 
 
 
@@ -267,6 +296,8 @@ CSS pertama kali diusulkan oleh Håkon Wium Lie pada 10 Oktober 1994, pada saat 
   Display, Setelah semua proses diatas berjalan , proses terakhir ialah CSS dan DOM akan membentuk tampilan visual sebuah halaman situs yang tertampil di layar monitor.
 
 
+
+
   Dalam CSS, warna juga dapat ditentukan menggunakan nilai RGB, nilai HEX, nilai HSL, nilai RGBA, dan nilai HSLA:
   
 
@@ -275,7 +306,12 @@ CSS pertama kali diusulkan oleh Håkon Wium Lie pada 10 Oktober 1994, pada saat 
 
 
 
+
+
+
 Properti latar belakang CSS digunakan untuk menambahkan efek latar belakang pada elemen
+
+
 
 
 
@@ -294,6 +330,10 @@ dikarenakan link instagram terdapat atribut blank nya maka saat mengklik link te
 <img width="657" alt="ig" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/ce191a3f-6417-43a0-a0b0-8ac1107d4c0b">
 
 
+
+
+
+
 Properti ini background-attachment menentukan apakah gambar latar belakang harus digulir atau diperbaiki (tidak akan digulir bersama halaman lainnya):
 
 
@@ -305,7 +345,10 @@ Properti ini background-attachment menentukan apakah gambar latar belakang harus
 
 
 
-Input codingan Backround image
+
+
+
+Input codingan Background image
 
 <img width="589" alt="baground css i" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/79443b4c-dd82-46aa-881c-a7440fa6513b">
 
@@ -314,6 +357,125 @@ Background Image yaitu tampilan yang menjadi ada background gambar nya sehingga 
 
 
 
+
 <img width="820" alt="o background img" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/8b1f4516-d993-4e94-808b-55a8a3929f97">
 
+
+
+Menggunakan properti CSS Background Repeat adalah opsi langsung untuk membiarkan latar belakang mengisi ruang yang digunakan untuk halaman. Namun, ada lebih dari properti ini daripada sekadar mengulang gambar berulang kali.
+
+<img width="923" alt="repeat1" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/aa1ea150-c1f8-4d94-acaa-5ba4c4d06cc5">
+
+
+
+didalam css menggunakan border yaitu batasan
+<img width="929" alt="border" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/d21339c7-c18b-413a-bd4b-12ee1d1cb8fb">
+
+
+
+
+opacity
+didalam opacity warnanya bisa transparan dalam box warnanya
+
+
+
+
+<img width="927" alt="opacity" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/390b2474-ffd2-473b-8fa9-182efd5fa2f2">
+
+
+
+
+
+border color yaitu  waran garis tepi yang terdapat pada box nya
+
+
+<img width="350" alt="border color i css" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/72d0250e-d2f5-4bfc-ba87-ef84326d2c4d">
+
+
+
+
+output dari border color akan muncul seperti ini
+<img width="931" alt="border o css" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/5f1df303-9bdc-45f7-8f5c-d8b740d1284d">
+
+
+
+
+Child Selector
+ Sesuai namanya selector ini akan menseleksi nth child. element selector ini akan menseleksi element children dari  tiap-tiap parent yang ada di dalam suatu  group
+
+<img width="923" alt="child selector" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/32bbb310-fd9b-421e-8225-91aedae24250">
+
+
+
+
+Dalam CSS juga dapat mengatur posisi list
+
+<img width="370" alt="posisi list" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/b3c0480b-21f8-42dd-958c-542964d63d33">
+
+
+
+Responsiv tabel
+jadi tabelnya bersifat responsif atau mengikuti ukuran halaman nya
+
+<img width="926" alt="css respon" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/5755fd63-efd5-44bd-952f-596c17718cbb">
+
+
+
+
+
+Css juga dapat mengatur panjang dan lebarnya tabel sehingga dapat mnghasilkan tabel yang kita inginkan
+
+
+<img width="935" alt="tabel uk css" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/3d255137-40e8-4794-a8c5-c525398118d6">
+
+
+
+
+Penggunaan Navbar
+bagian dari tampilan website yang berisi menu navigasi yang terdiri dari beberapa tautan atau link. Tujuan dari NavBar adalah untuk membantu pengguna dalam navigasi website dan mencari informasi yang diinginkan dengan mudah.
+berikut contoh tampilan dari navbar
+
+<img width="935" alt="penggunaan navbar" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/a2fd161d-2b93-47a2-af7f-c35625096973">
+
+
+
+Button Css yaitu elemen interaktif yang diaktifkan oleh pengguna dengan mouse, keyboard, jari, perintah suara, atau teknologi bantu lainnya. Setelah diaktifkan, ia kemudian melakukan tindakan, seperti mengirimkan formulir atau membuka dialog
+
+<img width="368" alt="button css" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/20fa2def-1419-4b34-bbf0-655891c2d0ce">
+
+
+
+
+Dalam menggunakan CSS kita juga bisa mengatur gaya huruf sesuai dengan keinginan
+<img width="427" alt="font family" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/5dab2e13-cd1d-427e-852f-454a0fb4d699">
+
+
+<img width="427" alt="font family" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/582d478f-83c3-4ef1-8aaf-b4314041c627">
+
+
+output dari font family
+
+<img width="455" alt="font css" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/e32a0d9f-4481-475a-aefb-31173160d9a3">
+
+
+
+
+Rounded Border
+Properti ini memungkinkan Anda menambahkan sudut membulat ke elemen
+
+<img width="937" alt="rounded" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/8df9cd94-80fb-4d3e-9e05-43e6cdc2d421">
+
+
+
+spesifik dalam css yaitu Dalam contoh ini, kita menggunakan elemen "p" sebagai pemilih, dan menentukan warna pink untuk elemen ini. Teksnya akan berwarna
+pink
+<img width="332" alt="spesificity" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/aa61a110-7171-45f4-ad69-e7dabec086d9">
+
+
+Font web memungkinkan desainer Web untuk menggunakan font yang tidak diinstal pada komputer pengguna.
+Ketika Anda sudah menemukan/membeli font yang ingin Anda gunakan, cukup sertakan file font tersebut di server web Anda, dan secara otomatis akan diunduh ke pengguna bila diperlukan.
+Font "sendiri" Anda ditentukan dalam @font-faceaturan CSS.
+
+
+<img width="445" alt="web font" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/df866afa-204b-43f5-bca8-769acca8f008">
 
