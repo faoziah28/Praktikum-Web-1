@@ -275,7 +275,45 @@ CSS pertama kali diusulkan oleh Håkon Wium Lie pada 10 Oktober 1994, pada saat 
 
 
 
-Properti latar belakang CSS digunakan untuk menambahkan efek latar belakang pada elemen.
+Properti latar belakang CSS digunakan untuk menambahkan efek latar belakang pada elemen
 
+
+
+Dalam CSS terdapat atribut blank hal ini menyebabkan  klik link tersebut akan berganti ke tab yang baru dalam menampilkan halaman yang baru setelah klik link tersebut
+dan dengan menggunakan CSS tulisan dari link yang diberi atribut blank dapat diberi warna
+
+<img width="292" alt="blank css" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/720edc41-2294-48e3-b11f-d1137c9dde15">
+
+
+
+
+dikarenakan link instagram terdapat atribut blank nya maka saat mengklik link tersebut munculnya seperti ini
+
+
+
+<img width="657" alt="ig" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/ce191a3f-6417-43a0-a0b0-8ac1107d4c0b">
+
+
+Properti ini background-attachment menentukan apakah gambar latar belakang harus digulir atau diperbaiki (tidak akan digulir bersama halaman lainnya):
+
+
+
+
+<img width="785" alt="baground css o" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/4ec6b990-a050-4782-80e6-5dff4f0b6a52">
+
+
+
+
+
+Input codingan Backround image
+
+<img width="589" alt="baground css i" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/79443b4c-dd82-46aa-881c-a7440fa6513b">
+
+
+Background Image yaitu tampilan yang menjadi ada background gambar nya sehingga tampilan halaman web menjadi lebih menarik seperti gambar dibawah ini
+
+
+
+<img width="820" alt="o background img" src="https://github.com/faoziah28/Praktikum-Web-1/assets/152271367/8b1f4516-d993-4e94-808b-55a8a3929f97">
 
 
